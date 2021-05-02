@@ -1,0 +1,58 @@
+.pos-gauche{
+    float: left;
+}
+.pos-droit{
+    float: right;
+    margin-left: 500px;
+    
+}
+body{
+    margin-left: 325px;
+    margin-right: 325px;
+    font-family: century gothic;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 2px;
+}
+.competence{
+    display: inline-block;
+}
+.gauche{
+    float: left;
+}
+.droite{
+    float: right;
+}
+.couleur{
+   height: 30px;
+    background-color: grey;
+}
+h2{
+    color: rgb(238, 43, 43);
+}
+.nom{
+    font-size: 30px;
+    color: rgb(238, 43, 43);
+}
+.role{
+    font-size: 20px;
+    color: rgb(238, 43, 43);
+}
+.espace1{
+    height: 250px;
+}
+.espace2{
+    height: 250px;
+}
+.espace3{
+    height: 488px;
+}
+.gras{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+#space{
+    height: 10px;
+}
